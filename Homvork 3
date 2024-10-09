@@ -1,0 +1,16 @@
+#include <istream>
+using namespace std;
+
+
+int main ( homvork 3)
+
+floot g1,g2,g3;
+int u1,u2,u3;
+cout <<"g1,g2,g3;
+cin >>g1>>g2>>g3;
+cout <<"u1,u2,u3;
+cin >>u1>>u2>>u3;
+
+floot avg = (g1×u1+g2×u2+g3×u3)/(u1+u2+u3);
+cout <<"avg:"<<avg;
+return θ;
